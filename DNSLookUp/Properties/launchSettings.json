@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DNSLookUp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"google.com\" \"rhs.dk\"",
+      "nativeDebugging": false
+    }
+  }
+}
